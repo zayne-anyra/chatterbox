@@ -123,7 +123,7 @@ class ChatterboxTTS:
         self.tokenizer = tokenizer
         self.device = device
         self.conds = conds
-        self.watermarker = perth.PerthImplicitWatermarker()
+        # self.watermarker = perth.PerthImplicitWatermarker()
 
     @classmethod
     def from_local(cls, ckpt_dir, device) -> 'ChatterboxTTS':
