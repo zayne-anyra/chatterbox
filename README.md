@@ -1,5 +1,7 @@
 
----
+---![Screenshot 2025-06-04 132426](https://github.com/user-attachments/assets/6406d393-ee7d-4445-a5e9-92f07fd43e27)
+
+![Screenshot 2025-06-04 132418](https://github.com/user-attachments/assets/7f423119-4901-406d-a48b-32c3d0bd891f)
 
 ````markdown
 # 🎭 Chatterbox TTS Pro (SUP3R Edition)
