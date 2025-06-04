@@ -1,4 +1,3 @@
-Here's a clean, informative `README.md` for your [Chatterbox-SUP3R](https://github.com/SUP3RMASS1VE/chatterbox-SUP3R) project. It explains the purpose, features, setup, and usage based on the provided `app.py`. It also gives proper credit to the original authors at [Resemble AI](https://github.com/resemble-ai).
 
 ---
 
@@ -33,6 +32,9 @@ Here's a clean, informative `README.md` for your [Chatterbox-SUP3R](https://gith
 ```bash
 git clone https://github.com/SUP3RMASS1VE/chatterbox-SUP3R.git
 cd chatterbox-SUP3R
+python -m venv venv
+venv\Scripts\activate
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 pip install -r requirements.txt
 ````
 
